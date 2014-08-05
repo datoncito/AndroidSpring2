@@ -62,7 +62,7 @@ public void conectarse(View v){
         public void onPostExecute(String mensaje){
             try {
                //  texto.setText(u.getNombre());
-               texto.setText("Usuarios leidos:" +usuarios.size());
+               texto.setText("Usuarios leidoss:" +usuarios.size());
 
             }catch(Exception e){
                 texto.setText(e.getMessage());
