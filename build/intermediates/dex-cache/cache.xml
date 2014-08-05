@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-6be6b3502c4a31c87b8f5286a0aba62829c22a6c.jar"
+        jar="/home/campitos/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.11-b1d486892e84ba95359956a04b9dbfbc669de9d8.jar"
+        jar="/home/campitos/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.11/45d70862fa016993193075a1e8e32a01dcf438e8/jackson-mapper-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="45d70862fa016993193075a1e8e32a01dcf438e8"/>
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-1.0.1.RELEASE-b0669b0d0c17278bb8f71a5246521e0034fb1890.jar"
+        jar="/home/campitos/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.1.RELEASE/e132d929bd181941f79b0d63edafb8a86ae6fd33/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33"/>
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.11-1a4f0d06cd25f52d2b3ae42dac47298b987961c3.jar"
+        jar="/home/campitos/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.11/e32303ef8bd18a5c9272780d49b81c95e05ddf43/jackson-core-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43"/>
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/classes-30dde55314bea192048bdd82cf7756b99e02703e.jar"
+        jar="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/classes-fb55d818568dec1a24e74c3aea74478565afdc87.jar"
+        jar="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="/media/campitos/mi_daton/AndroidStudioProjects/AndroidSpring2/app/build/intermediates/pre-dexed/debug/spring-android-core-1.0.1.RELEASE-c0de9b4759552b9c8849784d3ff44557aa7c5ecb.jar"
+        jar="/home/campitos/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/1.0.1.RELEASE/e68f0e8e4b636ee30c4de58953be38d9b72a5e3b/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b"/>
+
+</pre-dex-items>

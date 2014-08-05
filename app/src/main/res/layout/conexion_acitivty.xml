@@ -1,0 +1,31 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAlignment="center">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Mi primer priemra conexion"
+        android:id="@+id/textView" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="conectarse"
+        android:id="@+id/button"
+        android:onClick="conectarse" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Mensajito"
+        android:id="@+id/resultado"
+        android:textColor="#ffaa88ff"
+        android:textSize="@dimen/abc_action_bar_subtitle_text_size"
+        android:padding="5dp"
+        android:textAlignment="center" />
+</LinearLayout>
